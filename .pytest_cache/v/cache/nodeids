@@ -1,0 +1,6 @@
+[
+  "test_product_quality.py::test_recalculate_quality_cheese",
+  "test_product_quality.py::test_recalculate_potato",
+  "test_product_quality.py::test_recalculate_water",
+  "test_product_quality.py::test_recalculate_fish"
+]
